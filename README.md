@@ -1,7 +1,7 @@
 # shopify-clone-with-tailwind
 
 
-# 📌 About  project :
+## 📌 About  project :
 This is **[shopify.in](https://www.shopify.in/)** Home page clone.  
 project is responsive so it will work on mobile devices also.
 
